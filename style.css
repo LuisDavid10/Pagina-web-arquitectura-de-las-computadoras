@@ -1,13 +1,13 @@
 body {
   font-family: sans-serif, Arial, Helvetica;
-  background-color: #f2f2f2; /* Light gray background */
+  background-color: #214cc0; /* Light gray background */
   margin: 0;
   padding: 0;
 
 }
 
 body {
-  margin: 10px 20px;
+  margin: 20px 50px;
 }
 
 
@@ -64,3 +64,8 @@ footer {
   padding: 20px;
   text-align: center; /* Center the footer content */
 }
+
+a {
+  color: white;
+}
+
